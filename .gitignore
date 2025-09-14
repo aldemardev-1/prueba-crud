@@ -1,0 +1,45 @@
+### Eclipse ###
+.project
+.classpath
+.settings/
+
+### Maven ###
+target/
+pom.xml.tag
+pom.xml.versions
+pom.xml.bak
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+build/
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+### Spring Boot ###
+*.log
+!/src/main/resources/*.log
+!/src/main/resources/*.properties
+!/src/main/resources/*.yml
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### OS ###
+.DS_Store
+.vscode/
+
+### IDE ###
+.gradle/
+.project
+.classpath
+.settings/
+.springBeans
+.factorypath
+
+### IDE-specific files ###
+*.iml
+.metadata
